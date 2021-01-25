@@ -10,5 +10,5 @@ I am a mechanical engineer specializing in the design, manufacture and productio
 
 |                                   Read#                     |               link                     |
 | :---------------------------------------------------------: | :-----------------------------------------------------------: |
-|                Read: 01 - growth mindset                    | [link](https://mohammad-alzool.github.io/new-repository)  |
+|                Read: 01 - growth mindset                    | [link](https://mohammad-alzool.github.io/reading-notes)  |
 
