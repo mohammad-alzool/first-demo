@@ -1,4 +1,4 @@
-                                         #wellcome 
+#                                 wellcome 
                                          
                                          
 My name is _Mohamed Al-Zool_
@@ -12,5 +12,7 @@ I am a mechanical engineer specializing in the design, manufacture and productio
 
 |                                   Read#                     |               link                     |
 | :---------------------------------------------------------: | :-----------------------------------------------------------: |
-|                Read: 01 - growth mindset                    | [link](https://mohammad-alzool.github.io/reading-notes)  |
+|                           growth mindset                    | [link](https://mohammad-alzool.github.io/growth-mindset)  |
+|                github pages                                 | [link](https://mohammad-alzool.github.io/github-pages)  |
+|                html&css                                     | [link](https://mohammad-alzool.github.io/html@css)  |
 
