@@ -47,3 +47,7 @@ To rename a remote’s short name, use the git remote rename command.
 
 ## Remove
 To remove a remote for whatever reason (e.g., a contributor has left the team, the server has moved), simply use the git remote rm command
+
+
+
+you can read more about [remote](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
