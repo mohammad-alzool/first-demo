@@ -12,7 +12,7 @@ I am a mechanical engineer specializing in the design, manufacture and productio
 
 |                                   Read#                     |               link                     |
 | :---------------------------------------------------------: | :-----------------------------------------------------------: |
-|                           growth mindset                    | [link](https://mohammad-alzool.github.io/reading-notes/growth-mindset)  |
+|                growth mindset                               | [link](https://mohammad-alzool.github.io/reading-notes/growth-mindset)  |
 |                github pages                                 | [link](https://mohammad-alzool.github.io/reading-notes/github-pages)  |
 |                html&css                                     | [link](https://mohammad-alzool.github.io/reading-notes/html-css)  |
-|                Seeing Your Remote                           | [link](https://mohammad-alzool.github.io/reading-notes/remote)  |
+|                SeeingYourRemote                             | [link](https://mohammad-alzool.github.io/reading-notes/remote)  | 
