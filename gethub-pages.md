@@ -40,4 +40,4 @@ _You **can** combine them_
 
 
 
-to know more about using markdown and how to use it you can read this [artical](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) and this [artical](https://guides.github.com/features/mastering-markdown/)
+To know more about using markdown and how to use it you can read this [artical](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) and this [artical](https://guides.github.com/features/mastering-markdown/)
