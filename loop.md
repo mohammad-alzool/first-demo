@@ -27,7 +27,7 @@ while (boolean condition)
    loop statements...
 }
 
-![while](img/loop1.png)
+![while](img/Loop1.png)
 
 
 ## Here are few differences:
