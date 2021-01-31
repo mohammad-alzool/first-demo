@@ -12,9 +12,11 @@ I am a mechanical engineer specializing in the design, manufacture and productio
 
 |                                   Read#                     |               link                     |
 | :---------------------------------------------------------: | :-----------------------------------------------------------: |
-|                growth mindset                                   | [link](https://mohammad-alzool.github.io/reading-notes/growth-mindset)  |
-|                github pages                                     | [link](https://mohammad-alzool.github.io/reading-notes/github-pages)  |
-|                html&css                                       | [link](https://mohammad-alzool.github.io/reading-notes/html-css)  |
-|                SeeingYourRemote                          | [link](https://mohammad-alzool.github.io/reading-notes/remote)  | 
+|                growth mindset           | [link](https://mohammad-alzool.github.io/reading-notes/growth-mindset)  |
+|                github pages             | [link](https://mohammad-alzool.github.io/reading-notes/github-pages)  |
+|                html&css                 | [link](https://mohammad-alzool.github.io/reading-notes/html-css)  |
+|                SeeingYourRemote         | [link](https://mohammad-alzool.github.io/reading-notes/remote)  | 
 |          java                           | [link](https://mohammad-alzool.github.io/reading-notes/js)  | 
-|          LOOPS                           | [link](https://mohammad-alzool.github.io/reading-notes/loop)  | 
+|          LOOPS                          | [link](https://mohammad-alzool.github.io/reading-notes/loop)  | 
+|          CSS                            | [link](https://mohammad-alzool.github.io/reading-notes/css)  | 
+|          functions                      | [link](https://mohammad-alzool.github.io/reading-notes/functions)  | 
