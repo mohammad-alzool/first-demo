@@ -45,7 +45,8 @@ I am a mechanical engineer specializing in the design, manufacture and productio
 |             7             | [7](https://mohammad-alzool.github.io/reading-notes)  |
 |             8             | [8](https://mohammad-alzool.github.io/reading-notes)  |
 |             9             | [9](https://mohammad-alzool.github.io/reading-notes)  |
-|             10            | [10](https://mohammad-alzool.github.io/reading-notes)  ||             11            | [11](https://mohammad-alzool.github.io/reading-notes)  |
+|             10            | [10](https://mohammad-alzool.github.io/reading-notes)  |
+|             11            | [11](https://mohammad-alzool.github.io/reading-notes)  |
 |             12            | [12](https://mohammad-alzool.github.io/reading-notes)  |
 |             13            | [13](https://mohammad-alzool.github.io/reading-notes)  |
 |             14            | [14](https://mohammad-alzool.github.io/reading-notes)  |
