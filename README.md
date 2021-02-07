@@ -37,7 +37,7 @@ I am a mechanical engineer specializing in the design, manufacture and productio
 |        ***Code 201 Reading*** Notes                   |               link                     |
 | :---------------------------------------------------------: | :-----------------------------------------------------------: |
 |             class-01            | [1](https://mohammad-alzool.github.io/reading-notes/class-01)  |
-|             2            | [2](https://mohammad-alzool.github.io/reading-notes)  |
+|            class-02          | [2](https://mohammad-alzool.github.io/reading-notes/class-02)  |
 |             3            | [3](https://mohammad-alzool.github.io/reading-notes)  |
 |             4             | [4](https://mohammad-alzool.github.io/reading-notes)  |
 |             5             | [5](https://mohammad-alzool.github.io/reading-notes)  |
