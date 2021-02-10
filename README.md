@@ -40,7 +40,7 @@ I am a mechanical engineer specializing in the design, manufacture and productio
 |            class-02          | [2](https://mohammad-alzool.github.io/reading-notes/class-02)  |
 |             class-03           | [3](https://mohammad-alzool.github.io/reading-notes/class-03)  |
 |             class-04             | [4](https://mohammad-alzool.github.io/reading-notes/class-04)  |
-|             5             | [5](https://mohammad-alzool.github.io/reading-notes)  |
+|             class-05             | [5](https://mohammad-alzool.github.io/reading-notes/class-05)  |
 |             6             | [6](https://mohammad-alzool.github.io/reading-notes)  |
 |             7             | [7](https://mohammad-alzool.github.io/reading-notes)  |
 |             8             | [8](https://mohammad-alzool.github.io/reading-notes)  |
