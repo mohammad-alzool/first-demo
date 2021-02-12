@@ -67,6 +67,6 @@ JavaScript interacts with HTML document indirectly by interacting with the DOM. 
 - JavaScript can create new HTML events in the page
 
 
-### read in [website](https://simplesnippets.tech/what-is-document-object-modeldom-how-js-interacts-with-dom/)
+### read in [website](https://simplesnippets.tech/what-is-document-object-modeldom-how-js-interacts-with-dom/) or in this [book](https://drive.google.com/file/d/1YNO7ocwvAdu3q2WFqgY3m5QTxxNaY_c4/view?usp=sharing) Chapter 5: “Document Object Model” (pp.183-242)
 ### Watch it on YouTube
 [![Watch the video](https://i.ytimg.com/vi_webp/_GxpmQ54aqg/sddefault.webp)](https://www.youtube.com/watch?v=_GxpmQ54aqg)
