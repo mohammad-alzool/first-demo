@@ -43,7 +43,7 @@ Search Engine Optimization (SEO): Is a huge topic talking about optimizing techn
 <p>&nbsp;</p>
 
 
-to read more about Images & Practical Information you can red this [book](https://drive.google.com/file/d/1YNO7ocwvAdu3q2WFqgY3m5QTxxNaY_c4/view?usp=sharing)
+to read more about Images & Practical Information you can read this [book](https://drive.google.com/file/d/1YNO7ocwvAdu3q2WFqgY3m5QTxxNaY_c4/view?usp=sharing)
 
 
 
